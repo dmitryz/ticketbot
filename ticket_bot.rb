@@ -1,4 +1,4 @@
-#!/usr/bin/ruby
+#!/usr/bin/env ruby
 
 require_relative 'setup-capybara.rb'
 require_relative 'mail.rb'
